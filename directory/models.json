@@ -1,0 +1,342 @@
+[
+    {
+        "name": "ChatGPT",
+        "function": "Conversational AI",
+        "url": "https://chat.openai.com"
+    },
+    {
+        "name": "Gemini",
+        "function": "Conversational AI by Google",
+        "url": "https://gemini.google.com"
+    },
+    {
+        "name": "ipcamtalk.comhttps://ipcamtalk.com \u203a threads",
+        "function": "Conversational AI",
+        "url": "https://ipcamtalk.com/threads/tool-tutorial-free-ai-person-detection-for-blue-iris.37330/"
+    },
+    {
+        "name": "[tool] [tutorial] Free AI Person Detection for Blue Iris",
+        "function": "Conversational AI",
+        "url": "https://ipcamtalk.com/threads/tool-tutorial-free-ai-person-detection-for-blue-iris.37330/"
+    },
+    {
+        "name": "ipcamtalk.comhttps://ipcamtalk.com \u203a forums",
+        "function": "Conversational AI",
+        "url": "https://ipcamtalk.com/forums/ai.90/"
+    },
+    {
+        "name": "AI - IP Cam Talk",
+        "function": "Conversational AI",
+        "url": "https://ipcamtalk.com/forums/ai.90/"
+    },
+    {
+        "name": "ipcamtalk.comhttps://ipcamtalk.com \u203a threads \u203a tool-tutorial-free-ai-person-detection-fo\u2026",
+        "function": "Conversational AI",
+        "url": "https://ipcamtalk.com/threads/tool-tutorial-free-ai-person-detection-for-blue-iris.37330/page-187"
+    },
+    {
+        "name": "[tool] [tutorial] Free AI Person Detection for Blue Iris",
+        "function": "Conversational AI",
+        "url": "https://ipcamtalk.com/threads/tool-tutorial-free-ai-person-detection-for-blue-iris.37330/page-187"
+    },
+    {
+        "name": "ipcamtalk.comhttps://ipcamtalk.com \u203a threads",
+        "function": "Conversational AI",
+        "url": "https://ipcamtalk.com/threads/unifi-ai-port-works-great.79651/"
+    },
+    {
+        "name": "Unifi AI Port- Works great! - IP Cam Talk",
+        "function": "Conversational AI",
+        "url": "https://ipcamtalk.com/threads/unifi-ai-port-works-great.79651/"
+    },
+    {
+        "name": "ipcamtalk.comhttps://ipcamtalk.com \u203a threads",
+        "function": "Conversational AI",
+        "url": "https://ipcamtalk.com/threads/need-help-starting-ai.80962/"
+    },
+    {
+        "name": "Need help starting AI - IP Cam Talk",
+        "function": "Conversational AI",
+        "url": "https://ipcamtalk.com/threads/need-help-starting-ai.80962/"
+    },
+    {
+        "name": "ipcamtalk.comhttps://ipcamtalk.com \u203a threads",
+        "function": "Conversational AI",
+        "url": "https://ipcamtalk.com/threads/ai-not-responding.80244/"
+    },
+    {
+        "name": "AI: not responding - IP Cam Talk",
+        "function": "Conversational AI",
+        "url": "https://ipcamtalk.com/threads/ai-not-responding.80244/"
+    },
+    {
+        "name": "deepai.orghttps://deepai.org \u203a machine-learning-model",
+        "function": "Writing AI",
+        "url": "https://deepai.org/machine-learning-model/text2img"
+    },
+    {
+        "name": "AI Image Generator - DeepAI",
+        "function": "Image Generation",
+        "url": "https://deepai.org/machine-learning-model/text2img"
+    },
+    {
+        "name": "perchance.orghttps://perchance.org \u203a ai-text-to-image-generator",
+        "function": "Image Generation",
+        "url": "https://perchance.org/ai-text-to-image-generator"
+    },
+    {
+        "name": "AI Image Generator (free, no sign-up, unlimited) - Perchance",
+        "function": "Image Generation",
+        "url": "https://perchance.org/ai-text-to-image-generator"
+    },
+    {
+        "name": "craiyon.comhttps://www.craiyon.com",
+        "function": "Other",
+        "url": "https://www.craiyon.com/"
+    },
+    {
+        "name": "Craiyon - Your FREE AI image generator tool: Create AI art!",
+        "function": "Image Generation",
+        "url": "https://www.craiyon.com/"
+    },
+    {
+        "name": "deepimg.aihttps://deepimg.ai \u203a ai-image-generator",
+        "function": "Image Generation",
+        "url": "https://deepimg.ai/ai-image-generator/"
+    },
+    {
+        "name": "100% Free AI Image Generator (No Login)",
+        "function": "Image Generation",
+        "url": "https://deepimg.ai/ai-image-generator/"
+    },
+    {
+        "name": "microsoft.comhttps://create.microsoft.com \u203a en-us \u203a features \u203a ai-image-generator",
+        "function": "Image Generation",
+        "url": "https://create.microsoft.com/en-us/features/ai-image-generator"
+    },
+    {
+        "name": "Free AI Image Generator, Text to Image App from Microsoft \u2026",
+        "function": "Image Generation",
+        "url": "https://create.microsoft.com/en-us/features/ai-image-generator"
+    },
+    {
+        "name": "deepai.orghttps://deepai.org \u203a chat \u203a text-generator",
+        "function": "Conversational AI",
+        "url": "https://deepai.org/chat/text-generator"
+    },
+    {
+        "name": "AI Text Generator - DeepAI",
+        "function": "Conversational AI",
+        "url": "https://deepai.org/chat/text-generator"
+    },
+    {
+        "name": "leonardo.aihttps://leonardo.ai",
+        "function": "Other",
+        "url": "https://leonardo.ai/"
+    },
+    {
+        "name": "AI Image Generator - Create Art, Images & Video | Leonardo AI",
+        "function": "Image Generation",
+        "url": "https://leonardo.ai/"
+    },
+    {
+        "name": "aiimagegenerator.orghttps://www.aiimagegenerator.org",
+        "function": "Image Generation",
+        "url": "https://www.aiimagegenerator.org/"
+    },
+    {
+        "name": "AI Image Generator - Free online AI art generator",
+        "function": "Image Generation",
+        "url": "https://www.aiimagegenerator.org/"
+    },
+    {
+        "name": "clipfly.aihttps://www.clipfly.ai \u203a ai-image-generator",
+        "function": "Image Generation",
+        "url": "https://www.clipfly.ai/ai-image-generator/"
+    },
+    {
+        "name": "Free AI Image Generator - Convert Text to Image Online | Clipfly",
+        "function": "Image Generation",
+        "url": "https://www.clipfly.ai/ai-image-generator/"
+    },
+    {
+        "name": "github.comhttps://github.com \u203a topics \u203a ai-assistant",
+        "function": "Other",
+        "url": "https://github.com/topics/ai-assistant"
+    },
+    {
+        "name": "ai-assistant \u00b7 GitHub Topics \u00b7 GitHub",
+        "function": "Other",
+        "url": "https://github.com/topics/ai-assistant"
+    },
+    {
+        "name": "github.comhttps://github.com \u203a nrl-ai \u203a llama-assistant",
+        "function": "Other",
+        "url": "https://github.com/nrl-ai/llama-assistant"
+    },
+    {
+        "name": "GitHub - nrl-ai/llama-assistant: AI-powered assistant to help you \u2026",
+        "function": "Other",
+        "url": "https://github.com/nrl-ai/llama-assistant"
+    },
+    {
+        "name": "github.comhttps://github.com \u203a topics \u203a jarvis-ai",
+        "function": "Other",
+        "url": "https://github.com/topics/jarvis-ai"
+    },
+    {
+        "name": "jarvis-ai \u00b7 GitHub Topics \u00b7 GitHub",
+        "function": "Other",
+        "url": "https://github.com/topics/jarvis-ai"
+    },
+    {
+        "name": "github.comhttps://github.com \u203a rksm \u203a org-ai",
+        "function": "Other",
+        "url": "https://github.com/rksm/org-ai"
+    },
+    {
+        "name": "GitHub - rksm/org-ai: Emacs as your personal AI assistant. Use \u2026",
+        "function": "Other",
+        "url": "https://github.com/rksm/org-ai"
+    },
+    {
+        "name": "github.comhttps://github.com \u203a disler \u203a always-on-ai-assistant",
+        "function": "Other",
+        "url": "https://github.com/disler/always-on-ai-assistant"
+    },
+    {
+        "name": "\"Always-On\" Deepseek AI Assistant - GitHub",
+        "function": "Other",
+        "url": "https://github.com/disler/always-on-ai-assistant"
+    },
+    {
+        "name": "github.comhttps://github.com \u203a mudler \u203a LocalAI",
+        "function": "Other",
+        "url": "https://github.com/mudler/LocalAI"
+    },
+    {
+        "name": "GitHub - mudler/LocalAI: :robot: The free, Open Source alternative \u2026",
+        "function": "Conversational AI",
+        "url": "https://github.com/mudler/LocalAI"
+    },
+    {
+        "name": "github.comhttps://github.com \u203a topics \u203a ai-assistant",
+        "function": "Other",
+        "url": "https://github.com/topics/ai-assistant?l=python"
+    },
+    {
+        "name": "ai-assistant \u00b7 GitHub Topics \u00b7 GitHub",
+        "function": "Other",
+        "url": "https://github.com/topics/ai-assistant?l=python"
+    },
+    {
+        "name": "github.comhttps://github.com \u203a langchain-ai \u203a executive-ai-assistant",
+        "function": "Other",
+        "url": "https://github.com/langchain-ai/executive-ai-assistant"
+    },
+    {
+        "name": "langchain-ai/executive-ai-assistant - GitHub",
+        "function": "Other",
+        "url": "https://github.com/langchain-ai/executive-ai-assistant"
+    },
+    {
+        "name": "openai.comhttps://openai.com",
+        "function": "Other",
+        "url": "https://openai.com/"
+    },
+    {
+        "name": "OpenAI",
+        "function": "Other",
+        "url": "https://openai.com/"
+    },
+    {
+        "name": "topai.toolshttps://topai.tools",
+        "function": "Other",
+        "url": "https://topai.tools/top-100-ai-tools"
+    },
+    {
+        "name": "The Top 100 AI Tools - Ultimate AI tools list",
+        "function": "Other",
+        "url": "https://topai.tools/top-100-ai-tools"
+    },
+    {
+        "name": "top10.comhttps://www.top10.com \u203a best-lists \u203a best-ai-apps",
+        "function": "Other",
+        "url": "https://www.top10.com/best-lists/best-ai-apps"
+    },
+    {
+        "name": "Top 10 Best AI Apps & Websites in 2025: Free and Paid",
+        "function": "Other",
+        "url": "https://www.top10.com/best-lists/best-ai-apps"
+    },
+    {
+        "name": "cyberoptik.nethttps://www.cyberoptik.net \u203a blog \u203a best-ai-websites",
+        "function": "Writing AI",
+        "url": "https://www.cyberoptik.net/blog/best-ai-websites/"
+    },
+    {
+        "name": "20 Best AI Websites of 2025 I CyberOptik",
+        "function": "Writing AI",
+        "url": "https://www.cyberoptik.net/blog/best-ai-websites/"
+    },
+    {
+        "name": "artificialintelligencejobs.nethttps://artificialintelligencejobs.net",
+        "function": "Image Generation",
+        "url": "https://artificialintelligencejobs.net/30-best-ai-websites-you-should-visit/"
+    },
+    {
+        "name": "30 Best AI Websites You Should Visit",
+        "function": "Image Generation",
+        "url": "https://artificialintelligencejobs.net/30-best-ai-websites-you-should-visit/"
+    },
+    {
+        "name": "10web.iohttps://10web.io \u203a blog \u203a ai-websites",
+        "function": "Writing AI",
+        "url": "https://10web.io/blog/ai-websites/"
+    },
+    {
+        "name": "29 Top AI Websites You Need to Try in 2025",
+        "function": "Writing AI",
+        "url": "https://10web.io/blog/ai-websites/"
+    },
+    {
+        "name": "guides.aihttps://guides.ai \u203a best-ai-websites",
+        "function": "Other",
+        "url": "https://guides.ai/best-ai-websites/"
+    },
+    {
+        "name": "10 Best AI Websites: Everyone Is Using These (2025) - Guides.ai",
+        "function": "Other",
+        "url": "https://guides.ai/best-ai-websites/"
+    },
+    {
+        "name": "bestairank.comhttps://bestairank.com",
+        "function": "Other",
+        "url": "https://bestairank.com/"
+    },
+    {
+        "name": "Best AI Websites - Best AI Rank",
+        "function": "Other",
+        "url": "https://bestairank.com/"
+    },
+    {
+        "name": "aixploria.comhttps://www.aixploria.com \u203a en",
+        "function": "Other",
+        "url": "https://www.aixploria.com/en/top-100-ai/"
+    },
+    {
+        "name": "Top 100 AI Tools: The Most Popular and Trending AI Websites",
+        "function": "Other",
+        "url": "https://www.aixploria.com/en/top-100-ai/"
+    },
+    {
+        "name": "aiwebsiteslist.comhttps://aiwebsiteslist.com",
+        "function": "Other",
+        "url": "https://aiwebsiteslist.com/"
+    },
+    {
+        "name": "The world's best curated list of AI Websites",
+        "function": "Other",
+        "url": "https://aiwebsiteslist.com/"
+    }
+]

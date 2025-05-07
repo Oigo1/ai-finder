@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Finder</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background-color: #f7f7f7;
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+
+        input[type="text"] {
+            width: 300px;
+            padding: 10px;
+            margin: 20px auto;
+            display: block;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+
+        .category {
+            margin-top: 30px;
+        }
+
+        .category h2 {
+            color: #444;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        li {
+            background-color: white;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 6px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+
+        a {
+            text-decoration: none;
+            color: #0077cc;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>🧠 AI Finder Directory</h1>
+
+    <input type="text" id="search" placeholder="Search AI tools...">
+
+    <div id="tool-container"></div>
+
+    <script>
+        let allTools = [];
+
+        fetch("/api/models/")
+            .then(res => res.json())
+            .then(data => {
+                allTools = data;
+                renderTools(data);
+            });
+
+        const searchInput = document.getElementById("search");
+        searchInput.addEventListener("input", () => {
+            const query = searchInput.value.toLowerCase();
+            const filtered = allTools.filter(t => 
+                t.name.toLowerCase().includes(query) ||
+                t.function.toLowerCase().includes(query)
+            );
+            renderTools(filtered);
+        });
+
+        function renderTools(tools) {
+            const container = document.getElementById("tool-container");
+            container.innerHTML = "";
+
+            const grouped = {};
+
+            tools.forEach(tool => {
+                if (!grouped[tool.function]) {
+                    grouped[tool.function] = [];
+                }
+                grouped[tool.function].push(tool);
+            });
+
+            for (const [category, items] of Object.entries(grouped)) {
+                const section = document.createElement("div");
+                section.className = "category";
+                const heading = document.createElement("h2");
+                heading.textContent = category;
+                section.appendChild(heading);
+
+                const list = document.createElement("ul");
+
+                items.forEach(tool => {
+                    const li = document.createElement("li");
+                    li.innerHTML = `<a href="${tool.url}" target="_blank">${tool.name}</a>`;
+                    list.appendChild(li);
+                });
+
+                section.appendChild(list);
+                container.appendChild(section);
+            }
+        }
+    </script>
+</body>
+</html>
